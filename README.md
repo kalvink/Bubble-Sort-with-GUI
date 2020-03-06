@@ -1,4 +1,4 @@
-Bubble Sort with GUI
+# Bubble Sort with GUI
 
 1. 
 ![Bubble Sort1](https://i.imgur.com/Plokddj.png)
